@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+ ____________________________________
+<  say hello to me >
+ ------------------------------------
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
+
 ![My GitHub public stats](https://github-readme-stats.vercel.app/api?username=leoba1)
 <!--
 **leoba1/leoba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
