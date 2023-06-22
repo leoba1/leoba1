@@ -9,7 +9,8 @@
                     ||----w |
                     ||     ||
 
-![My GitHub public stats](https://github-readme-stats.vercel.app/api?username=leoba1)
+![My GitHub public stats](https://github-readme-stats.vercel.app/api?username=leoba1&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoba1&layout=compact)](https://github.com/leoba1/github-readme-stats)
 <!--
 **leoba1/leoba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
